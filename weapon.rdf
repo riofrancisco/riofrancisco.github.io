@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:gun="http://valorant/guns/ontology#">
+
+    <gun:Guns>
+        <gun:name>Vandal</gun:name>
+        <gun:type>Rifle</gun:type>
+        <gun:price>2900</gun:price>
+        <gun:bullet>25</gun:bullet>
+    </gun:Guns>
+
+    <gun:Guns>
+        <gun:name>Phantom</gun:name>
+        <gun:type>Rifle</gun:type>
+        <gun:price>2900</gun:price>
+        <gun:bullet>30</gun:bullet>
+    </gun:Guns>
+
+    <gun:Guns>
+        <gun:name>Guardian</gun:name>
+        <gun:type>Rifle</gun:type>
+        <gun:price>2100</gun:price>
+        <gun:bullet>15</gun:bullet>
+    </gun:Guns>
+
+    <gun:Guns>
+        <gun:name>Operator</gun:name>
+        <gun:type>Sniper</gun:type>
+        <gun:price>4700</gun:price>
+        <gun:bullet>5</gun:bullet>
+    </gun:Guns>
+
+    <gun:Guns>
+        <gun:name>Marshal</gun:name>
+        <gun:type>Sniper</gun:type>
+        <gun:price>900</gun:price>
+        <gun:bullet>5</gun:bullet>
+    </gun:Guns>
+
+    <gun:Guns>
+        <gun:name>Specter</gun:name>
+        <gun:type>SMG</gun:type>
+        <gun:price>1600</gun:price>
+        <gun:bullet>30</gun:bullet>
+    </gun:Guns>
+
+    <gun:Guns>
+        <gun:name>Stinger</gun:name>
+        <gun:type>SMG</gun:type>
+        <gun:price>900</gun:price>
+        <gun:bullet>20</gun:bullet>
+    </gun:Guns>
+
+    <gun:Guns>
+        <gun:name>Ghost</gun:name>
+        <gun:type>Sidearm</gun:type>
+        <gun:price>500</gun:price>
+        <gun:bullet>15</gun:bullet>
+    </gun:Guns>
+
+    <gun:Guns>
+        <gun:name>Sheriff</gun:name>
+        <gun:type>Sidearm</gun:type>
+        <gun:price>800</gun:price>
+        <gun:bullet>5</gun:bullet>
+    </gun:Guns>
+
+    <gun:Guns>
+        <gun:name>Judge</gun:name>
+        <gun:type>Shotgun</gun:type>
+        <gun:price>1850</gun:price>
+        <gun:bullet>8</gun:bullet>
+    </gun:Guns>
+
+    <gun:Guns>
+        <gun:name>Bucky</gun:name>
+        <gun:type>Shotgun</gun:type>
+        <gun:price>900</gun:price>
+        <gun:bullet>5</gun:bullet>
+    </gun:Guns>
+
+
+</rdf:RDF>
